@@ -26,5 +26,12 @@ The objective of this project is to analyze coffee sales data and create an inte
 - The top 5 customers contribute significantly to total revenue.
 - More than 90% of the total orders are successfully delivered.
 
+## Ansoff Matrix – Growth Strategies
+- Market Penetration → Increase sales in existing markets (USA, UK, Ireland) by offering promotions and loyalty incentives.
+- Market Development → Expand into new regions or demographics using localized marketing and partnerships with regional distributors.
+- Product Development → Introduce new coffee blends, premium selections, or seasonal flavors to attract a wider audience.
+- Diversification → Explore non-coffee product lines such as complementary bakery items or merchandise to increase revenue streams.
+
+
 
 
