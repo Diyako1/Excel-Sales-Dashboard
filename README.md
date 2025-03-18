@@ -16,3 +16,5 @@ The objective of this project is to analyze coffee sales data and create an inte
 - Which coffee type (Arabica, Excelsa, Liberica, Robusta) is the best-selling?
 - Percentage of total orders delivered by package size.
 
+## Dashboard
+![Screenshot (495)]([https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e](https://github.com/Diyako1/Excel-Sales-Dashboard/blob/main/Dashboard_CoffeeSales.png))
