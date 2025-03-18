@@ -19,3 +19,12 @@ The objective of this project is to analyze coffee sales data and create an inte
 ## Dashboard
 ![Screenshot (495)](https://github.com/Diyako1/Excel-Sales-Dashboard/blob/main/Dashboard_CoffeeSales.png)
 
+## Project Insight
+- Arabica coffee is the most popular and best-selling coffee type.
+- The USA contributes the highest sales, followed by UK and Ireland.
+- Customers with loyalty cards tend to purchase more frequently.
+- The top 5 customers contribute significantly to total revenue.
+- More than 90% of the total orders are successfully delivered.
+
+
+
